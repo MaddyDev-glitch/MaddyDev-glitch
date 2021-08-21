@@ -2,7 +2,7 @@
 [![Srimadhaven's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaddyDev-glitch&hide=contribs,stars&count_private=trueshow_icons=true&theme=radical)
 ](https://github.com/MaddyDev-glitch/github-readme-stats)
 <br>
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Code>-<Flutter>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaddyDev-glitch&langs_count=10&hide=assembly&exclude_repo=MyWebsite)](https://github.com/MaddyDev-glitch/github-readme-stats)
 <br>
