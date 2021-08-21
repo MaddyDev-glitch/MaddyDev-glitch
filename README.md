@@ -4,6 +4,13 @@
 <br>
 ![](https://img.shields.io/badge/<Code>-<Flutter>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/<Code>-<Flutter>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/<Code>-<C/C++>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/<Code>-<Dart>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/<Cloud>-<Firebase>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaddyDev-glitch&langs_count=10&hide=assembly&exclude_repo=MyWebsite)](https://github.com/MaddyDev-glitch/github-readme-stats)
 <br>
 [![Srimadhaven's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaddyDev-glitch)](https://github.com/MaddyDev-glitch/github-readme-stats)
