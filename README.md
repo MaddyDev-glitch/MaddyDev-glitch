@@ -2,10 +2,7 @@
 [![Srimadhaven's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaddyDev-glitch&hide=contribs,stars&count_private=trueshow_icons=true&theme=radical)
 ](https://github.com/MaddyDev-glitch/github-readme-stats)
 <br>
-![](https://img.shields.io/badge/<Code>-<Flutter>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/<Code>-<Flutter>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/<Code>-<C/C++>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/<Code>-<Dart>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/<Cloud>-<Firebase>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/<Code>-<Flutter>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/<Code>-<C/C++>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/<Code>-<Dart>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/<Cloud>-<Firebase>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 
