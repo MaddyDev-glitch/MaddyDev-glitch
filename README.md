@@ -8,7 +8,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaddyDev-glitch&langs_count=10&hide=assembly&exclude_repo=MyWebsite&theme=radical)](https://github.com/MaddyDev-glitch/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaddyDev-glitch&langs_count=10&hide=assembly,javascript&exclude_repo=MyWebsite&theme=radical)](https://github.com/MaddyDev-glitch/github-readme-stats)
 <br>
 <!-- 
 - 🔭 I’m currently working on ...
