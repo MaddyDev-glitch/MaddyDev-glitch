@@ -17,7 +17,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaddyDev-glitch&langs_count=7&exclude_repo=MyWebsite,BinghamtonBicycleCoop&theme=radical&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/MaddyDev-glitch/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaddyDev-glitch&langs_count=7&exclude_repo=MyWebsite,BinghamtonBicycleCoop,DiaryOS&theme=radical&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/MaddyDev-glitch/github-readme-stats)
 <br>
 <!-- 
 - 🔭 I’m currently working on ...
